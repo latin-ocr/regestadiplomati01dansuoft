@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestadiplomati01dansuoft_0359.png"; bbox 0 0 2649 3686; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 421 1237 1970 1313">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 421 1237 1970 1313">
+     <span class='ocr_line' id='line_1_1' title="bbox 421 1237 1970 1313; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 421 1237 1006 1311; x_wconf 81' lang='lat' dir='ltr'><strong>REGESTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1098 1238 1970 1313; x_wconf 69' lang='lat' dir='ltr'><strong>DIPLOMATIGA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 774 1482 1624 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 774 1482 1624 1539">
+     <span class='ocr_line' id='line_1_2' title="bbox 774 1482 1624 1539; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 774 1482 1210 1538; x_wconf 83' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1267 1482 1624 1539; x_wconf 79' lang='lat' dir='ltr'>DANICAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 950 1973 1443 2020">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 950 1973 1443 2020">
+     <span class='ocr_line' id='line_1_3' title="bbox 950 1973 1443 2020; baseline -0.01 0"><span class='ocrx_word' id='word_1_5' title='bbox 950 1974 1232 2020; x_wconf 89' lang='lat' dir='ltr'><strong>VOLUMEN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1266 1973 1443 2018; x_wconf 87' lang='lat' dir='ltr'><strong>PRIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
